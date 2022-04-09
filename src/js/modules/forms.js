@@ -13,6 +13,7 @@ const forms = () => {
             e.preventDefault();
         });
     });
+    input = 
 };
 
 export default forms;
